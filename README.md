@@ -29,5 +29,5 @@
 </div>
 <br>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&count_private=true&hide=prs)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=waifal&show_icons=true&locale=en&layout=compact)
+![My Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&count_private=true&hide=prs)
