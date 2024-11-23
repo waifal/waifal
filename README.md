@@ -1,38 +1,9 @@
 ## Kia ora!👋
 
-<!--
-**waifal/waifal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+**waifal/waifal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
-<!--
-- 🌱 I’m currently learning:
-  - JavaScript,
-  - Node.js,
-  - React,
-  - Vue.js,
-  - Express.js,
-  - Chart.js,
-  - Three.js,
-  - TypeScript,
-  - PHP,
-  - Laravel,
-  - Python,
-  - UI/UX,
-  - DevOps,
-  - MongoDB,
-  - SQL,
-  - and mySQL.
--->
+
 **Languages and Tools:**
 
 <div>
@@ -58,4 +29,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-![My Stats](https://github-readme-stats.vercel.app/api/top-langs?username=waifal&show_icons=true&locale=en&layout=compact)
+![My Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&count_private=true&hide=prs)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=waifal&show_icons=true&locale=en&layout=compact)
