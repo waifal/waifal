@@ -4,6 +4,16 @@
 **waifal/waifal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
+I’m Waiwhakaira Falwasser, an aspiring coder who’s still trying to turn coffee into code ☕💻. I believe there’s no such thing as too many &lt;div&gt;s—unless you’re debugging! 😜 When I’m not Googling how to fix my errors, I’m busy making my code “CSS-ually” appealing. 😏
+Join me on my journey of learning one semicolon at a time. Let’s create something awesome together! 🚀
+
+<!--
+
+I’m Waiwhakaira Falwasser, a beginner web developer trying to turn coffee into code ☕💻. When I’m not debugging, I’m probably Googling how to actually debug. 😅 Join me on this journey of learning, one semicolon at a time! 😉
+I’m Waiwhakaira Falwasser, a web developer who believes there’s no such thing as too many <div>s—unless you’re debugging! 😜 Still getting the hang of it all, but I’m confident I’ll “tag” along just fine. Let’s create something awesome! 🌟
+I’m Waiwhakaira Falwasser, a beginner developer just trying to make my code “CSS-ually” appealing. 😏 Still working on mastering the language of HTML, but hey, Rome wasn’t built in a day... and neither was my portfolio! 😆
+I’m Waiwhakaira Falwasser, a web developer still figuring out if I can write code faster than I can write coffee orders. ☕💻 Let’s just say I’m a work-in-progress, but I’m definitely "Java" to learn more! 😜
+-->
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=waifal&show_icons=true&locale=en&layout=compact)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&count_private=true&hide=prs)
 
