@@ -56,3 +56,6 @@ Here are some ideas to get you started:
   <img src="https://www.svgrepo.com/show/354180/php.svg" alt="PHP Logo" width="40">
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel Logo" width="40">
 </div>
+<br>
+
+![My Stats](https://github-readme-stats.vercel.app/api/top-langs?username=waifal&show_icons=true&locale=en&layout=compact)
