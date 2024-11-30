@@ -37,6 +37,7 @@ I’m Waiwhakaira Falwasser, a web developer still figuring out if I can write c
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="Mongo Logo" width="40">
   <img src="https://www.svgrepo.com/show/354180/php.svg" alt="PHP Logo" width="40">
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel Logo" width="40">
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind Logo" width="40">
 </div>
 <br>
 
