@@ -40,6 +40,3 @@ I’m Waiwhakaira Falwasser, a web developer still figuring out if I can write c
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind Logo" width="40">
 </div>
 <br>
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=waifal&show_icons=true&locale=en&layout=compact)
-![My Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&count_private=true&hide=prs)
