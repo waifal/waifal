@@ -21,6 +21,7 @@ I’m Waiwhakaira Falwasser, a web developer still figuring out if I can write c
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5 Logo" width="40"/>
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3 Logo" width="40"/>
   <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript Logo" width="40"/>
+  <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="SASS Logo" width="40"/>
 </div>
 
 **Currently Learning:**
