@@ -19,15 +19,7 @@
   <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git Logo" width="40">
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js Logo" width="40">
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React Logo" width="40">
-  <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue.js Logo" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" alt="Three.js Logo" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/1200px-Chart.js_logo.svg.png" alt="Chart.js Logo" width="40">
-  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript Logo" width="40">
-  <img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="SQLite Logo" width="40">
-  <img src="https://www.svgrepo.com/show/342053/mysql.svg" alt="mySQL Logo" width="40">
-  <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="Mongo Logo" width="40">
   <img src="https://www.svgrepo.com/show/354180/php.svg" alt="PHP Logo" width="40">
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel Logo" width="40">
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind Logo" width="40">
 </div>
 <br>
