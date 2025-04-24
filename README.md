@@ -20,6 +20,8 @@
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js Logo" width="40">
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React Logo" width="40">
   <img src="https://www.svgrepo.com/show/354180/php.svg" alt="PHP Logo" width="40">
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL Logo" width="40">
+  <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="Vue.js Logo" width="35">
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel Logo" width="40">
 </div>
 <br>
