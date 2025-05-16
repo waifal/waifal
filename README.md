@@ -1,27 +1,38 @@
-## Kia ora!👋
+# Hi there, I'm waifal! 👋
 
-<!-- 
-**waifal/waifal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
+Welcome to my GitHub profile!  
+I'm passionate about software development, open source, and creative problem solving.
 
-<!-- ### Key Projects -->
+---
 
-**Languages and Tools:**
-<div>
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5 Logo" width="40"/>
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3 Logo" width="40"/>
-  <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript Logo" width="40"/>
-  <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="SASS Logo" width="40"/>
-</div>
+## 🚀 About Me
 
-**Currently Learning:**
-<div>
-  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git Logo" width="40">
-  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js Logo" width="40">
-  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React Logo" width="40">
-  <img src="https://www.svgrepo.com/show/354180/php.svg" alt="PHP Logo" width="40">
-  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL Logo" width="40">
-  <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="Vue.js Logo" width="35">
-  <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel Logo" width="40">
-</div>
-<br>
+- 💻 I love building robust, user-friendly applications.
+- 📚 Always learning new technologies and best practices.
+- 🌱 Currently exploring cloud computing, automation, and AI.
+- 🛠️ Languages: HTML, CSS, JavaScript.
+- 🎨 Hobbies: Coding, reading, gaming, and occasionally drawing.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark)
+
+---
+
+## 📫 How to reach me
+
+- Email: [waifalcode@gmail.com](mailto:waifalcode@gmail.com)
+
+---
+
+## 📝 Latest Projects
+
+- 🚧 _Stay tuned! More awesome projects coming soon..._
+
+---
+
+Thanks for visiting my profile!  
+Let's connect and build something amazing together. 🚀
