@@ -1,4 +1,4 @@
-# Hi there, I'm Wai! 👋
+# Kia ora, I'm Wai! 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about software development, open source, and creative problem solving.
@@ -10,7 +10,7 @@ I'm passionate about software development, open source, and creative problem sol
 - 💻 I love building robust, user-friendly applications.
 - 📚 Always learning new technologies and best practices.
 - 🌱 Currently exploring cloud computing, automation, and AI.
-- 🛠️ Languages: HTML, CSS, JavaScript.
+- 🛠️ Languages: HTML, CSS, JavaScript, PHP.
 - 🎨 Hobbies: Coding, reading, gaming, and occasionally drawing.
 
 ---
