@@ -1,4 +1,4 @@
-# Hi there, I'm waifal! 👋
+# Hi there, I'm Wai! 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about software development, open source, and creative problem solving.
