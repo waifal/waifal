@@ -25,7 +25,7 @@ I'm passionate about software development, open source collaboration, and creati
 ## 📫 How to Reach Me
 
 - 🌐 **LinkedIn**: [Waiwhakaira Falwasser](https://www.linkedin.com/in/waiwhakaira-falwasser/)
-- 💻 **GitHub**: [waifal](https://github.com/waifal)
+<!-- 💻 **GitHub**: [waifal](https://github.com/waifal) -->
 <!-- ✉️ **Email**: *(Add yours here if you'd like to share it)* -->
 
 ---
