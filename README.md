@@ -1,36 +1,39 @@
 # Hello, I'm Wai! 👋
 
-Welcome to my GitHub profile!  
-I'm passionate about software development, open source, and creative problem solving.
+Welcome to my GitHub profile.
+I'm passionate about software development, open source collaboration, and creative problem-solving.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I love building robust, user-friendly applications.
-- 📚 Always learning new technologies and best practices.
-- 🌱 Currently exploring cloud computing, automation, and AI.
-- 🛠️ Languages: HTML, CSS, JavaScript, PHP.
-- 🎨 Hobbies: Coding, reading, gaming, and occasionally drawing.
+- 💻 I build robust, user-friendly applications with a focus on clean architecture and intuitive design.
+- 📚 Lifelong learner—currently diving into databases, Cisco networking, and technical support.
+- 🛠️ Languages I work with: HTML, CSS, JavaScript, PHP.
+- 🌱 Always exploring new technologies and best practices to sharpen my craft.
+- 🎮 Outside of code: I enjoy reading, gaming, and tinkering with new ideas.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark)
 
 ---
 
-## 📫 How to reach me
+## 📫 How to Reach Me
+
+- 🌐 **LinkedIn**: [Waiwhakaira Falwasser](https://www.linkedin.com/in/waiwhakaira-falwasser/)
+- 💻 **GitHub**: [waifal](https://github.com/waifal)
+<!-- ✉️ **Email**: *(Add yours here if you'd like to share it)* -->
 
 ---
 
-## 📝 Latest Projects
+<!-- ## 📝 Latest Projects
 
-- 🚧 _Stay tuned! More awesome projects coming soon..._
+🚧 _Stay tuned! More awesome projects coming soon..._
 
----
+-->
 
-Thanks for visiting my profile!  
-Let's connect and build something amazing together. 🚀
+Let’s connect and build something amazing together. 🚀
