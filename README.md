@@ -24,8 +24,6 @@ I'm passionate about software development, open source, and creative problem sol
 
 ## 📫 How to reach me
 
-- Email: [waifalcode@gmail.com](mailto:waifalcode@gmail.com)
-
 ---
 
 ## 📝 Latest Projects
