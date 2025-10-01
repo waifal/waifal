@@ -1,17 +1,15 @@
-# Hello, I'm Wai! 👋
+# Hi, I'm Wai! 👋
 
-Welcome to my GitHub profile.
-I'm passionate about software development, open source collaboration, and creative problem-solving.
+I’m skilled in front-end development and have beginner experience with backend development using PHP and MySQL. I’m also learning software engineering with Java.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I build robust, user-friendly applications with a focus on clean architecture and intuitive design.
-- 📚 Lifelong learner—currently diving into databases, Cisco networking, and technical support.
-- 🛠️ Languages I work with: HTML, CSS, JavaScript, PHP.
-- 🌱 Always exploring new technologies and best practices to sharpen my craft.
-- 🎮 Outside of code: I enjoy reading, gaming, and tinkering with new ideas.
+- 💻 I mainly work with HTML, CSS, and JavaScript.
+- 📚 Learning backend development with PHP, MySQL, and Java.
+- 🌐 Interested in networking and other IT areas.
+- 🎮 Outside coding, I enjoy reading, gaming, and exploring new ideas.
 
 ---
 
