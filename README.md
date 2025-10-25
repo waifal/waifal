@@ -1,22 +1,36 @@
 # Hi, I'm Wai! 👋
 
-I’m skilled in front-end development and have beginner experience with backend development using PHP and MySQL. I’m also learning software engineering with Java.
+### 🌟 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&color=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=663399&color=000000" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4&color=000000" alt="PHP" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=000000" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&color=000000" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=5382a1&color=000000" alt="Java" />
+</p>
+
+I’m a front-end developer with beginner experience in backend development using PHP and MySQL. Currently, I’m learning software engineering with Java and expanding my skillset across full-stack development.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I mainly work with HTML, CSS, and JavaScript.
+- 💻 I work mainly with HTML, CSS, and JavaScript.
 - 📚 Learning backend development with PHP, MySQL, and Java.
-- 🌐 Interested in networking and other IT areas.
-- 🎮 Outside coding, I enjoy reading, gaming, and exploring new ideas.
+- 🌐 Interested in networking and IT.
+- 🎮 Outside coding, I enjoy reading, gaming, and learning new things.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
 ---
 
@@ -28,10 +42,4 @@ I’m skilled in front-end development and have beginner experience with backend
 
 ---
 
-<!-- ## 📝 Latest Projects
-
-🚧 _Stay tuned! More awesome projects coming soon..._
-
--->
-
-Let’s connect and build something amazing together. 🚀
+💡 Let’s connect and build something amazing together! 🚀
