@@ -14,8 +14,9 @@
 
 I’m a PHP and MySQL developer with hands-on experience in building web applications. I have a solid foundation in JavaScript and am currently expanding my skills in full-stack development while learning software engineering with Java.
 
----
 <!--
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
