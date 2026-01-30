@@ -12,26 +12,17 @@
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=5382a1&color=000000" alt="Java" />
 </p>
 
-I’m a front-end developer with beginner experience in backend development using PHP and MySQL. Currently, I’m learning software engineering with Java and expanding my skillset across full-stack development.
+I’m a PHP and MySQL developer with hands-on experience in building web applications. I have a solid foundation in JavaScript and am currently expanding my skills in full-stack development while learning software engineering with Java.
 
 ---
-
-## 🚀 About Me
-
-- 💻 I work mainly with HTML, CSS, and JavaScript.
-- 📚 Learning backend development with PHP, MySQL, and Java.
-- 🌐 Interested in networking and IT.
-- 🎮 Outside coding, I enjoy reading, gaming, and learning new things.
-
----
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ## 📫 How to Reach Me
