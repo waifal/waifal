@@ -24,11 +24,10 @@ I’m a PHP and MySQL developer with hands-on experience in building web applica
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 -->
----
 
-## 📫 How to Reach Me
+<!-- ## 📫 How to Reach Me -->
 
-- 🌐 **LinkedIn**: [Waiwhakaira Falwasser](https://www.linkedin.com/in/waiwhakaira-falwasser/)
+<!-- 🌐 **LinkedIn**: [Waiwhakaira Falwasser](https://www.linkedin.com/in/waiwhakaira-falwasser/) -->
 <!-- 💻 **GitHub**: [waifal](https://github.com/waifal) -->
 <!-- ✉️ **Email**: *(Add yours here if you'd like to share it)* -->
 
