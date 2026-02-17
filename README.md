@@ -31,6 +31,4 @@ I’m a PHP and MySQL developer with hands-on experience in building web applica
 <!-- 💻 **GitHub**: [waifal](https://github.com/waifal) -->
 <!-- ✉️ **Email**: *(Add yours here if you'd like to share it)* -->
 
----
-
-💡 Let’s connect and build something amazing together! 🚀
+<!-- 💡 Let’s connect and build something amazing together! 🚀 -->
