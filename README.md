@@ -14,16 +14,12 @@
 
 I’m a PHP and MySQL developer with hands-on experience in building web applications. I have a solid foundation in JavaScript and am currently expanding my skills in full-stack development while learning software engineering with Java.
 
-<!--
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
--->
 
 <!-- ## 📫 How to Reach Me -->
 
