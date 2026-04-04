@@ -1,31 +1,32 @@
-# Hi, I'm Wai! 👋
+# Hi there, I'm Wai 👋
 
-### 🌟 Tech Stack
+I'm focused on building clean, modern, functional web applications and continuous active learning.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26&color=000000" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=663399&color=000000" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&color=000000" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4&color=000000" alt="PHP" />
-  <!-- <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=000000" alt="Vue.js" /> -->
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&color=000000" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=5382a1&color=000000" alt="Java" />
-</p>
+## Languages & Frameworks
+<div>
+  <img src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=E34F26&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS-000?logo=css&logoColor=8A2BE2&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-000?logo=php&logoColor=777BB4&style=for-the-badge"/>
+</div>
 
-I’m a PHP and MySQL developer with hands-on experience in building web applications. I have a solid foundation in JavaScript and am currently expanding my skills in full-stack development while learning software engineering with Java.
+## Database
+<div>
+  <img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1&style=for-the-badge"/>
+</div>
 
-## 📊 GitHub Stats
+## Tools
+<div>
+  <img src="https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vite-000?logo=vite&logoColor=646CFF&style=for-the-badge"/>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waifal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waifal&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+## Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waifal&theme=github_dark" />
 
-<!-- ## 📫 How to Reach Me -->
-
-<!-- 🌐 **LinkedIn**: [Waiwhakaira Falwasser](https://www.linkedin.com/in/waiwhakaira-falwasser/) -->
-<!-- 💻 **GitHub**: [waifal](https://github.com/waifal) -->
-<!-- ✉️ **Email**: *(Add yours here if you'd like to share it)* -->
-
-<!-- 💡 Let’s connect and build something amazing together! 🚀 -->
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waifal&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waifal&theme=github_dark" />
+</div>
