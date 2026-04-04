@@ -2,7 +2,7 @@
 
 I'm focused on building clean, modern, functional web applications and continuous active learning.
 
-## Languages & Frameworks
+## Tech Stack
 <div>
   <img src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=E34F26&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS-000?logo=css&logoColor=8A2BE2&style=for-the-badge"/>
