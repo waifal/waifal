@@ -7,8 +7,8 @@ I'm focused on building clean, modern, functional web applications and continuou
   <img src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=E34F26&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS-000?logo=css&logoColor=8A2BE2&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
-  <!-- 
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge"/>
+  <!-- 
   <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node-000?logo=node.js&logoColor=339933&style=for-the-badge"/>
    -->
