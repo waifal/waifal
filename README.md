@@ -13,6 +13,7 @@ I'm focused on building clean, modern, functional web applications and continuou
   <img src="https://img.shields.io/badge/Node-000?logo=node.js&logoColor=339933&style=for-the-badge"/>
    -->
   <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SolidJS-000?logo=solid&logoColor=2C4F7C&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PHP-000?logo=php&logoColor=777BB4&style=for-the-badge"/>
   <!-- 
   <img src="https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=FF2D20&style=for-the-badge"/>
